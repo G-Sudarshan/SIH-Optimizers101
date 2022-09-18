@@ -1,0 +1,35 @@
+.graphs__mainCard{
+    /* height: 70%;
+    min-height: 550px; */
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.datagrid{
+    /* background: rebeccapurple; */
+}
+
+.cls_icon{
+    font-size: 22px;
+}
+
+.send__btn_row{
+    align-items: flex-end;
+}
+
+
+.send___row{
+    /* padding: 0 20px; */
+    /* justify-content: space-around; */
+    text-align: center;
+}
+
+
+.sms__text{
+    border: 1px solid #454545;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    height: 200px;
+  }

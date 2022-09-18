@@ -1,0 +1,30 @@
+aadharNumber,rollNumber,name,companyName,companyType,ctcOffered,gender,minority,program,branch,status,category,mobileNumber,emailID,year,cgpa,skills
+4.11E+11,411301,Vedangi,Dassault Systemes,Product,0,Female,Yes,Engineering and Technology,Computer Engineering,Unemployed,OBC,7028429841,vedangi@gmail.com,2022,9.52,"c++, java"
+4.11E+11,411302,Sudarshan,PhonePe,Product,0,Male,Yes,Engineering and Technology,Computer Engineering,Unemployed,Open,7028429842,sudarshan@gmail.com,2022,8.5,"php, node, html"
+4.11E+11,411303,Harshal,Google,Product,0,Male,No,Engineering and Technology,Computer Engineering,Unemployed,SC,7028429843,harshal@gmail.com,2022,8,"c, c++"
+4.11E+11,411304,Shubham,PhonePe,Product,0,Male,No,Engineering and Technology,Computer Engineering,Unemployed,ST,7028429844,shubham@gmail.com,2022,7.3,"c,c++, html, node, php"
+4.11E+11,411305,Yuvraj,Google,Product,0,Male,No,Engineering and Technology,Computer Engineering,Unemployed,OBC,7028429845,yuvraj@gmail.com,2022,8.6,"php, java"
+4.11E+11,411306,Surendra,PhonePe,Product,0,Female,No,Engineering and Technology,Computer Engineering,Unemployed,Open,7028429846,surendra@gmail.com,2022,7.5,"java, php"
+4.11E+11,411307,Vaishnavi,Zepto,Startup,0,Female,No,Engineering and Technology,Computer Engineering,Unemployed,SC,7028429847,vaishnavi@gmail.com,2021,7,"c++, c"
+4.11E+11,411308,Rashmi,Zepto,Startup,0,Female,No,Engineering and Technology,Computer Engineering,Unemployed,ST,7028429848,rashmi@gmail.com,2021,6.8,php
+4.11E+11,411309,Nirmal,Zepto,Startup,0,Female,No,Engineering and Technology,Computer Engineering,Unemployed,OBC,7028429849,nirmal@gmail.com,2021,9.2,"java, php"
+4.11E+11,411310,Rutuja,Zepto,Startup,0,Female,No,Engineering and Technology,Information Technology,Unemployed,Open,7028429850,rutuja@gmail.com,2022,8.4,c
+4.11E+11,411311,Yogita,Zepto,Startup,0,Female,No,Engineering and Technology,Information Technology,Unemployed,SC,7028429851,yogita@gmail.com,2022,5.6,c++
+4.11E+11,411312,Srushti,Barclays,Fintech,0,Male,No,Engineering and Technology,Information Technology,Unemployed,ST,7028429852,srushti@gmail.com,2022,6.8,"node, html"
+4.11E+11,411313,Aaditya,Barclays,Fintech,0,Male,No,Engineering and Technology,Information Technology,Unemployed,OBC,7028429853,aaditya@gmail.com,2022,6.9,"html, c++"
+4.11E+11,411314,Ashish,Barclays,Fintech,0,Male,No,Engineering and Technology,Information Technology,Unemployed,Open,7028429854,ashish@gmail.com,2021,7,"c, php"
+4.11E+11,411315,Ritik,ZS Associates,Consultant,0,Male,No,Engineering and Technology,Information Technology,Unemployed,SC,7028429855,ritik@gmail.com,2021,8.5,"node, html"
+4.11E+11,411316,Tanya,ZS Associates,Consultant,0,Female,No,Engineering and Technology,Information Technology,Unemployed,ST,7028429856,tanya89@gmail.com,2021,9,"node, html, c++"
+4.11E+11,411317,Priyanka,Aleph Edge,Other,0,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,OBC,7028429857,priyanka56@gmail.com,2022,9.2,"c,c++, html, node, php"
+4.11E+11,411318,Anuj,Aleph Edge,Other,0,Male,No,Engineering and Technology,Electronics and telecommunication,Unemployed,Open,7028429858,anuj@gmail.com,2022,4.5,"node, html"
+4.11E+11,411319,Taniya,ZS Associates,Consultant,12,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,ST,7028429859,taniya127@gmail.com,2022,5,"node, html, c++"
+4.11E+11,411320,Pranali,Aleph Edge,Other,15,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,OBC,7028429860,pranali@gmail.com,2022,6.3,"html, c++"
+4.11E+11,411321,Anup,Aleph Edge,Other,7,Male,No,Engineering and Technology,Electronics and telecommunication,Unemployed,Open,7028429861,anup@gmail.com,2022,7.9,"java, php"
+4.11E+11,411322,Mohan,ZS Associates,Consultant,8,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,ST,7028429862,mohan@gmail.com,2022,8.9,c
+4.11E+11,411323,Guru,Aleph Edge,Other,5,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,OBC,7028429863,guru@gmail.com,2022,7.9,c++
+4.11E+11,411324,Rutika,Aleph Edge,Other,10,Male,No,Engineering and Technology,Electronics and telecommunication,Unemployed,Open,7028429864,rutika@gmail.com,2022,8,php
+4.11E+11,411325,Shital,ZS Associates,Consultant,28,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,ST,7028429865,shital@gmail.com,2021,6.8,"java, php"
+4.11E+11,411325,Aikansh,Aleph Edge,Other,12,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,OBC,7028429866,aikansh@gmail.com,2021,7.5,c++
+4.11E+11,411325,Abhishek,Aleph Edge,Other,10,Male,No,Engineering and Technology,Electronics and telecommunication,Unemployed,Open,7028429867,abhishek@gmail.com,2021,8.9,c
+4.11E+11,411325,Pooja,ZS Associates,Consultant,12,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,Open,7028429868,pooja@gmail.com,2021,6.5,"c,c++, html, node, php"
+4.11E+11,411325,Mohini,Aleph Edge,Other,10,Female,No,Engineering and Technology,Electronics and telecommunication,Unemployed,Open,7028429869,mohini@gmail.com,2021,7,"c,c++, html, node, php"

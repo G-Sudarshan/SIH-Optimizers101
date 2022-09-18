@@ -1,0 +1,53 @@
+.heading{
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.title{
+    color: #131c33;
+    font-size: 3.6rem;
+    line-height: 5.760000000000001rem;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 36px;
+    text-transform: capitalize;
+}
+
+.slider_content{
+    /* color: #ffffff !important; */
+}
+
+.slider_content h3{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.slider_content span{
+    color: #ffe156;
+}
+
+.slider_content p{
+    font-size: 16px;
+}
+
+.header_image{
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.fact_area{
+    background-color: #161f37;
+    padding: 100px 0;
+    color: #fff;
+}
+
+.fact_count{
+    font-size: 36px;
+}
+
+.content_text{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

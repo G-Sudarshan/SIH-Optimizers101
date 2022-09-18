@@ -1,0 +1,138 @@
+
+.fileupload{
+    background-color: #ffffff;
+    width: 100%;
+    margin: 0 auto;
+    height: 400px !important;
+    padding: 0 50px !important;
+  }
+  
+  .file_upld_btn {
+    width: 100%;
+
+    /* width: 144px; */
+    height: 40px;
+    font-size: 15px;
+    margin: 0;
+    color: #fff;
+    background: #2CA8FF;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    border-bottom: 4px solid #337ab7;
+    transition: all 0.2s ease;
+    outline: none;
+    text-transform: uppercase;
+    /* font-weight: 700; */
+  }
+  
+  .file_upld_btn:hover {
+    background: #2CA8FF;
+
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+  .file_upld_btn:hover > .drag-text {
+    color: #ffffff;
+  }
+  .file_upld_btn:active {
+    border: 0;
+    transition: all 0.2s ease;
+  }
+  
+
+  .title{
+    text-align: center;
+  }
+
+  .file_upload_content {
+    display: none;
+    text-align: center;
+  }
+  
+  .file_upload_input {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    opacity: 0;
+    cursor: pointer;
+  }
+  
+  .img_upload_wrapper {
+    margin-top: 20px;
+    border: 4px dashed #337ab7;
+    position: relative;
+  }
+  
+  .img_upload_wrapper:hover {
+    background-color: #e7f3fd;
+    border: 4px dashed #ffffff;
+  }
+  
+  .image_title_wrap {
+    padding: 0 15px 15px 15px;
+    color: #222;
+  }
+  
+  .drag_text {
+    text-align: center;
+  }
+  
+  .drag_text h3 {
+    font-weight: 100;
+    /* text-transform: uppercase; */
+    color: #337ab7;
+    padding: 60px 0;
+  }
+  
+  .file_upload_image {
+    max-height: 200px;
+    max-width: 200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .image-btn {
+    margin: 0;
+    color: #fff;
+  
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    outline: none;
+    font-weight: 700;
+  }
+
+  .login_input{
+    background: #FFFFFF;
+    border-radius: 0;
+  }
+
+  .login__logo{
+    border-radius: 0;
+  }
+
+  .drpdwn{
+    /* width: 208px; */
+    width: 100%;
+  }
+
+  .footer button{
+    opacity: 1 !important;
+  }
+
+  .bottom_btn{
+    display: flex;
+    justify-content: center;
+  }
+
+  .bottom_btn button{
+    width: 144px;
+    height: 40px;
+    font-size: 15px;
+  }
+

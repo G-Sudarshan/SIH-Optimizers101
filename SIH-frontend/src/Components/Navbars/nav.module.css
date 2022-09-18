@@ -1,0 +1,42 @@
+.nav__main{
+    padding: 0 5%;
+}
+
+.nav_item{
+    /* background-color: antiquewhite; */
+    color: #000 !important;
+    text-transform: capitalize;
+    /* font-size: 1.5rem; */
+    font-size: 16px;
+    line-height: 2.72rem;
+    cursor:pointer;
+
+}
+
+
+.nav_logo{
+    margin: 0 10px;
+}
+
+.nvBrand{
+    color:#012970 !important;
+    font-size: 26px !important;
+    font-weight: 700;
+    text-transform: capitalize !important;
+    cursor: pointer;
+}
+.navitems_wrapper{
+    margin:4px;
+}
+.navitems_wrapper li:hover{
+    /* background-color:  */
+    /* border-bottom: 2px solid blue; */
+    /* background-color: rgba(44,168,255,0.3); */
+    background-color: #d3d3d3;
+    border-radius: 20px;
+    /* margin: 6px; */
+}
+
+.slider_content{
+    
+}

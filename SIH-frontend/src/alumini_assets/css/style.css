@@ -1,0 +1,62 @@
+.content-body,
+.nav-container {
+  width: 80%;
+  margin: auto;
+}
+.width-40 {
+  width: 40px !important;
+}
+.user-data > .profile-image {
+  position: relative;
+  top: -40px;
+}
+.user-profile > .profile-image {
+  position: relative;
+  top: 50px;
+}
+
+.card {
+  border-radius: 0px;
+}
+
+.navbar-brand {
+  margin-top: 8px;
+}
+
+.content-body {
+  margin-top: 15px;
+}
+
+.col-auto button {
+  margin: 5px;
+  border-radius: 0;
+}
+.input-group {
+  border-radius: 0;
+}
+.active {
+  color: #1565c0;
+}
+input[type="file"] {
+  display: none;
+}
+.page-link > .material-icons {
+  font-size: 13px;
+}
+
+#footer-area .footer-bottom {
+  background-color: #1976d2;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.footer-bottom-text {
+  font-size: 16px;
+  line-height: 2.56rem;
+}
+
+.vertical-rule {
+  margin: 7px 0 13px 0;
+  height: 34px;
+  border-left: 1px solid #eee;
+}

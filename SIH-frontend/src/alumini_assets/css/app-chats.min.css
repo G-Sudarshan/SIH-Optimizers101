@@ -1,0 +1,29 @@
+body {
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.text-small {
+  font-size: 0.9rem;
+}
+
+.messages-box,
+.chat-box {
+  height: 510px;
+  overflow-y: scroll;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+input::placeholder {
+  font-size: 0.9rem;
+  color: #999;
+}
+.h-95 {
+  height: 95% !important ;
+}
+.h-80 {
+  height: 80% !important ;
+}
